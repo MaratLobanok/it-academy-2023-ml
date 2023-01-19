@@ -5,4 +5,6 @@ let b = 10;
 let c = a + b;
 
 
-let
+let z=12;
+
+
