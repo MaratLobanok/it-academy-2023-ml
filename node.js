@@ -11,4 +11,6 @@ fs.mkdirp('NewFolder')
 
 fs.writeFile("./NewFolder/file.txt", "Hello IT-Academy",)
 
+fs.mkdirp('NewFolder2')
+
 
