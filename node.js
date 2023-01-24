@@ -6,3 +6,9 @@ let c = a + b;
 
 
 const fs = require("fs-extra");
+
+fs.mkdirp('NewFolder')
+
+fs.writeFile("./NewFolder/file.txt", "Hello IT-Academy",)
+
+
