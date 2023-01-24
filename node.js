@@ -28,6 +28,11 @@ fs.unlink("NewFolder2/file.txt");
 
 fs.unlink('NewFolder3/file.txt');
 
+fs.rmdir('NewFolder');
+fs.rmdir('NewFolder2');
+fs.rmdir('NewFolder3');
+
+
 
 
 
