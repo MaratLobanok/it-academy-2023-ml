@@ -8,15 +8,19 @@ let c = a + b;
 const fs = require("fs-extra");
 const { fileURLToPath } = require("url");
 
-fs.mkdirp('NewFolder')
+fs.mkdirp('NewFolder');
 
-fs.writeFile("./NewFolder/file.txt", "Hello IT-Academy",)
+fs.writeFile("./NewFolder/file.txt", "Hello IT-Academy",);
 
-fs.mkdirp('NewFolder2')
+fs.mkdirp('NewFolder2');
 
-fs.writeFile("./NewFolder/file.txt", "Hello IT-Academy",)
+fs.writeFile("./NewFolder/file.txt", "Hello IT-Academy",);
 
 
 
-common
+fs.rename("NewFolder/file.txt", "NewFolder2/file.txt");
+
+
+
+
 
