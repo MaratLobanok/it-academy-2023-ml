@@ -1,0 +1,23 @@
+{
+  "name": "it-academy-2023-ml",
+  "version": "1.0.0",
+  "description": "it-academy-2023-ml",
+  "main": "node.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaratLobanok/it-academy-2023-ml.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MaratLobanok/it-academy-2023-ml/issues"
+  },
+  "homepage": "https://github.com/MaratLobanok/it-academy-2023-ml#readme",
+  "dependencies": {
+    "fs-extra": "^11.1.0"
+  }
+}
