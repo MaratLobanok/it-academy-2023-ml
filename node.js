@@ -20,6 +20,8 @@ fs.writeFile("./NewFolder/file.txt", "Hello IT-Academy",);
 
 fs.rename("NewFolder/file.txt", "NewFolder2/file.txt");
 
+fs.mkdirp('NewFolder3');
+
 
 
 
