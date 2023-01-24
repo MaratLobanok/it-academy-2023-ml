@@ -22,6 +22,9 @@ fs.rename("NewFolder/file.txt", "NewFolder2/file.txt");
 
 fs.mkdirp('NewFolder3');
 
+fs.copy("NewFolder2/file.txt", "NewFolder3/file.txt");
+
+
 
 
 
