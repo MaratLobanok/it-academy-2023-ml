@@ -24,6 +24,8 @@ fs.mkdirp('NewFolder3');
 
 fs.copy("NewFolder2/file.txt", "NewFolder3/file.txt");
 
+fs.unlink("NewFolder2/file.txt");
+
 
 
 
